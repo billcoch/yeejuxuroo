@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://weipirahr.pydata.cz/sitemap.xml
